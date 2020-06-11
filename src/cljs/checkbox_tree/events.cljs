@@ -11,6 +11,8 @@
 
 (re-frame/reg-event-db
  ::check-item
+ ;; the second argument will be whatever vector is given to the dispatch
+ ;; the first in the vector will be the name of the event: "check-item"
  (fn [db [_ item]]
    (assoc db :checked item)))
 
