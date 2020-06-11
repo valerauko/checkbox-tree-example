@@ -1,5 +1,11 @@
 {
 	"name": "checkbox-tree",
-	"dependencies": {},
-	"devDependencies": {}
+	"dependencies": {
+		"react": "16.13.0",
+		"react-checkbox-tree": "1.6.0",
+		"react-dom": "16.13.0"
+	},
+	"devDependencies": {
+		"shadow-cljs": "2.9.3"
+	}
 }
