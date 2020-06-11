@@ -2,6 +2,7 @@
 	"name": "checkbox-tree",
 	"dependencies": {
 		"react": "16.13.0",
+		"react-checkbox-tree": "1.6.0",
 		"react-dom": "16.13.0"
 	},
 	"devDependencies": {
