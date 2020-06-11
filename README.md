@@ -1,7 +1,8 @@
-# checkbox-tree
+# CheckboxTree example
 
-A [re-frame](https://github.com/day8/re-frame) application designed to ... well, that part is up to
-you.
+A [re-frame](https://github.com/day8/re-frame) application example of using the [CheckboxTree](https://github.com/jakezatecky/react-checkbox-tree) React component.
+
+![image](https://user-images.githubusercontent.com/6322484/84403165-5ad4c780-ac40-11ea-9f57-177b686cdbf1.png)
 
 ## Getting Started
 
